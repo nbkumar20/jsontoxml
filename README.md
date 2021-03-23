@@ -60,3 +60,5 @@ A JSON element with an object as a value should map to an XML element named <obj
 
 A JSON element with an null as a value should map to an XML element named <null/>. Unlike other XML representations for JSON values, a null value does not have a closing tag, rather it is self-closing by adding a forward slash before the end of the element tag. An example of this is shown in ﬁgure 11 and 12.
 
+
+Sample json and xml files are present in src/main/resources folder
